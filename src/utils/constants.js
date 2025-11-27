@@ -1,4 +1,4 @@
-export const API_BASE = 'http://127.0.0.1:8000';
+export const API_BASE = 'https://makadaminventory-production.up.railway.app';
 
 export const CHART_COLORS = [
   '#4f46e5', '#059669', '#d97706', 
