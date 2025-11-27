@@ -15,7 +15,7 @@ const LoginScreen = ({ loginForm, setLoginForm, handleLogin, loading }) => (
           />
         </div>
         <h1 className="text-3xl font-bold text-gray-800 mb-2">MAKADAMGEAR INDONESIA</h1>
-        <p className="text-gray-600">Iventory Management System</p>
+        <p className="text-gray-600">Inventory Management System</p>
       </div>
 
       <form onSubmit={handleLogin} className="space-y-5">
